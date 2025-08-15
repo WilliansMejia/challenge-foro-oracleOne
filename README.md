@@ -28,11 +28,3 @@ Una vez haya obtenido su JWT debe ingresarlo en el candado verde que se encuentr
 
 
 
-## :hammer: **Herramientas utilizadas:** :wrench:
-- La versión de java utilizada es [Java SDK versión 17](https://www.oracle.com/java/technologies/downloads/#java17).
-- Creación del proyecto base  [Spring Boot](https://start.spring.io/;).
-- Manejo de dependencias [Maven](https://maven.apache.org/).
-- El IDE usado fue [IntelliJ IDEA](https://www.jetbrains.com/idea/).
-- La base de datos fue [MySQL](https://www.mysql.com/).
-- Control de migraciones de la base de datos [Flyway](https://flywaydb.org/).
-- Control de versiones [Git](https://git-scm.com/).
